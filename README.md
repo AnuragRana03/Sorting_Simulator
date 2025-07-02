@@ -59,3 +59,9 @@ python sorting_visualizer.py
 ## Contributing
 
 Feel free to submit issues and enhancement requests! 
+
+## Project Screen Shots:
+![home page](image.png)
+![Sorted View](image-1.png)
+![Comparison Page](image-2.png)
+![Comparison Result](image-3.png)
